@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "GHNController",
+    "Method": "CalculateFee",
+    "RelativePath": "api/GHN/calculate-fee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "apiGHTK.DTOEntity.CalculateFeeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "CancelOrder",
+    "RelativePath": "api/GHN/cancel-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cancelRequest",
+        "Type": "apiGHTK.DTOEntity.CancelOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/GHN/create-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderData",
+        "Type": "CreateOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "GetDistricts",
+    "RelativePath": "api/GHN/districts/{provinceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "provinceId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "GetOrderInfo",
+    "RelativePath": "api/GHN/order-info",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderInfoRequest",
+        "Type": "apiGHTK.DTOEntity.OrderInfoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "PrintOrder",
+    "RelativePath": "api/GHN/print-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GHNController\u002BPrintOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "GetProvinces",
+    "RelativePath": "api/GHN/provinces",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GHNController",
+    "Method": "GetWards",
+    "RelativePath": "api/GHN/wards/{districtId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "districtId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

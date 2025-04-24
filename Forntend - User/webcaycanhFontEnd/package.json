@@ -1,0 +1,7 @@
+{
+  "homepage": "https://nhom11sangt4ca1user.netlify.app/",
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.6",
+    "jwt-decode": "^4.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+@apiGHTK_HostAddress = http://localhost:5047
+
+GET {{apiGHTK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

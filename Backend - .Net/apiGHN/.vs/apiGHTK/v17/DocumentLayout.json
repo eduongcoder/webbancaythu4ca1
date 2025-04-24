@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|f:\\projec\\c#\\giaohangtietkiem\\apightk\\apighn\\apightk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|solutionrelative:apightk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|f:\\projec\\c#\\giaohangtietkiem\\apightk\\apighn\\apightk\\dtoentity\\calculatefeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|solutionrelative:apightk\\dtoentity\\calculatefeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|f:\\projec\\c#\\giaohangtietkiem\\apightk\\apighn\\apightk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF1FE1C-A2D6-4D51-8068-D12F31616524}|apiGHTK\\apiGHTK.csproj|solutionrelative:apightk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\appsettings.json",
+              "RelativeDocumentMoniker": "apiGHTK\\appsettings.json",
+              "ToolTip": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\appsettings.json",
+              "RelativeToolTip": "apiGHTK\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T13:42:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateFeeRequest.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\DTOEntity\\CalculateFeeRequest.cs",
+              "RelativeDocumentMoniker": "apiGHTK\\DTOEntity\\CalculateFeeRequest.cs",
+              "ToolTip": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\DTOEntity\\CalculateFeeRequest.cs",
+              "RelativeToolTip": "apiGHTK\\DTOEntity\\CalculateFeeRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:10:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\Program.cs",
+              "RelativeDocumentMoniker": "apiGHTK\\Program.cs",
+              "ToolTip": "F:\\Projec\\C#\\giaohangtietkiem\\apiGHTK\\apiGHN\\apiGHTK\\Program.cs",
+              "RelativeToolTip": "apiGHTK\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:27:58.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
