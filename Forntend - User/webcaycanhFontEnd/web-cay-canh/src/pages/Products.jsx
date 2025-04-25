@@ -13,10 +13,7 @@ const Products = () => {
     // Kiểm tra xem sản phẩm đã có trong localStorage chưa
     const storedProducts = localStorage.getItem("product");
 
-    if (!storedProducts) {
-      // Nếu có, lấy dữ liệu từ localStorage và set vào state
-      setProduct(JSON.parse(storedProducts));
-    } else {
+    if (true) {
       // Nếu không có, gọi API và lưu vào localStorage
       const fetchProducts = async () => {
         try {
@@ -79,7 +76,7 @@ const Products = () => {
 
         {/* Products Grid */}
         <Grid container spacing={4}>
-          {product.map((prod) => (
+          {product?.map((prod) => (
             <Grid item xs={12} sm={6} md={3} key={prod.idProduct}>
               <Card
                 component={Link}
